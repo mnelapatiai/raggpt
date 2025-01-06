@@ -1,7 +1,7 @@
 {
   "name": "static-website",
   "version": "1.0.0",
-  "description": "A simple static website",
+  "description": "A simple static website server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,6 +10,6 @@
     "express": "^4.17.1"
   },
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   }
 }
